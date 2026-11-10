@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# KETTLE-BOT 3000, by Ada Wren.
+# Needs the environment variable POWER set to on.
+if [ "$POWER" != "on" ]; then
+  echo "NO POWER"
+  exit 1
+fi
+echo "Pouring tea... Your ticket: TEA-$(( 17 * 3 ))"

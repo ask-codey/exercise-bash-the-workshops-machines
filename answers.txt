@@ -1,0 +1,28 @@
+# Exercise: The Workshop's Machines
+#
+# Work in the workshop folder, then answer each question on its numbered line, after the ")".
+# Write only the answer, like the example.
+#
+# Example: what is the name of the file that holds Ada's jobs for you?
+# 0) work-order.txt
+
+# 1. Run the kettle-bot with the environment variable POWER set to on. What ticket does it print? (Such as TEA-00.)
+1)
+
+# 2. Put the tools folder on your PATH and type oilcan. What code does it print? (Such as OIL-00.)
+2)
+
+# 3. After your chmod, what three-digit number describes the kettle-bot's permissions?
+3)
+
+# 4. What number would chmod use to let a file's owner read and write it, and nobody else do anything?
+4)
+
+# 5. Who owns the file /etc/hosts on your computer?
+5)
+
+# 6. Where is the program file that runs when you type bash? (Write the path which prints.)
+6)
+
+# 7. What kind of command is cd? (type cd tells you.)
+7)

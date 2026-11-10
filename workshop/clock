@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# The workshop clock. Run it to wind it.
+echo "Tick, tock. The clock is wound for the day."

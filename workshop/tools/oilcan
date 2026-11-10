@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# The oil can, by Ada Wren.
+# It only works when you type its name and the shell finds it on your PATH.
+if [ "$(command -v oilcan)" != "$0" ]; then
+  echo "The oil can stays shut. Put its folder on your PATH, then type its name: oilcan"
+  exit 1
+fi
+echo "Glug, glug. The gears are oiled. Your code: OIL-$(( 40 + 2 * 9 ))"

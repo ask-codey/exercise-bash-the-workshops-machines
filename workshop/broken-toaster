@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# THE BROKEN TOASTER.
+# Ada's note: do NOT let this one run until I've fixed the wiring.
+echo "The toaster sparks, smokes and burns the toast."
